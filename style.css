@@ -1,0 +1,276 @@
+.mission{
+    color: rgb(18, 14, 238);
+}
+.focus{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Mea Culpa', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+    border-left: 4px solid rgb(240, 10, 10);
+            height: 55px;
+            position:left;
+          
+            left: 20%;
+            margin-left: 50px;
+}
+.flexible{
+    display: flex;
+
+}
+.half{
+    display: inline;
+     width: 50%;
+   margin-left: 40px;
+   margin-top: 80px;
+}
+.explore{
+    text-decoration: none;
+    text-shadow: 4px;
+    background-image: linear-gradient(tomato, tomato);
+    font-weight: 800;
+    font-style: normal;
+    padding: 10px 40px;
+    border-radius: 5px;
+    width: 50%;
+    left: 20%;
+    margin-left: 50px;
+    
+}
+.short{
+    height: 500px;
+    width: 400px;
+    margin-right: 20px;
+   margin-left: 40%;
+}
+.right{
+    height: 50px;
+    position:left;
+  
+    left: 20%;
+    margin-left: 50px;
+}
+.center{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+.one-third{
+    width: 33.3%;
+    box-shadow:10px 10px 40px blueviolet;
+    background-image: linear-gradient(rgb(207, 221, 199), rgb(18, 158, 201));
+    padding-left: 5px;
+    margin-bottom:40px ;
+    margin-left: 3%;
+    
+    border-image-slice: 1; 
+    background-position: left;  
+    border-radius: 5px;
+    
+   
+
+}
+.vission{
+    width: 33.3%;
+    box-shadow:10px 10px 40px rgb(43, 183, 226);
+    background-image: linear-gradient(rgba(207, 221, 199, 0.425), rgb(195, 18, 201));
+    padding-left: 5px;
+    padding-bottom:4%;
+    margin-left: 3%;
+    margin-bottom: 40px;
+    border-image-slice: 1; 
+    background-position: left;  
+    border-radius: 5px;   
+   
+}
+.goals{
+    width: 33.3%;
+    box-shadow:10px 10px 40px rgb(110, 70, 9);
+    background-image: linear-gradient(rgba(107, 121, 99, 0.425), rgb(240, 142, 15));
+    padding-left: 10px;
+    padding-bottom:4%;
+    margin-left: 2%;
+    margin-bottom: 40px;
+    border-image-slice: 1; 
+    background-position: left;  
+    border-radius: 5px;   
+}
+#illu-mis{
+height: 100px;
+width: 110px;
+
+
+}
+.mivigo{
+    display: flex;
+    margin-left: 4%;
+    
+
+}
+.illu-vis{
+    height: 100px;
+    width: 110px;
+}
+.illu-goal{
+    height: 100px;
+    width: 110px;
+}
+.lady{
+    height: 400px;
+    width: 400px;
+    margin-left: 3%; 
+}
+.mam{
+   display: flex;
+   margin-left: 4%;
+   margin-top: 20px;
+   
+}
+.lady-half{
+    width: 50%;
+    background-image: url(shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    
+
+   
+}
+.improve{
+    margin-left: 5%;
+    width: 50%;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    padding-left: 10px;
+}
+.hyper{
+    margin-left: 50px;
+    width: 50%;
+    text-decoration: none;
+    text-shadow: 4px;
+    background-image: linear-gradient(tomato, tomato);
+    font-weight: 800;
+    font-style: normal;
+    padding: 10px 40px;
+    border-radius: 5px;
+    width: 50%;
+    left: 20%;
+    margin-left: 50px;
+}
+.male-half{
+    width: 50%;
+}
+.know{
+    margin-left: 50px;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+.pera{
+    width: 50%;
+    margin-left: 5%;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.bro{
+    width: 60%;
+   background-image: url(shapes/shape-1.png);
+   background-position: right bottom;
+   background-repeat: no-repeat;
+   background-size: 20%;
+}
+.max{
+    display: flex;
+}
+.image{
+    height: 300px;
+    margin-bottom: 20px;
+    
+}
+.covid{
+    color: darkorange;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+  
+}
+.center{
+    text-align: center;
+}
+.social{
+    width: 50%;
+    margin-left: 50px;
+    height: 300px;
+   margin-left: 200px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+}
+.media{
+    height: 100px;
+}
+.profile{
+    display: flex;
+
+}
+
+    
+
+.safe{
+    color: rgb(236, 130, 9);
+}
+.home{
+    width: 50%;
+    margin-left: 30px;
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Lobster', cursive;
+font-family: 'Mea Culpa', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Source Code Pro', monospace;
+}
+.last{
+    display: flex;
+}
+.foot{
+  padding: 10px;
+font-family: 'Source Code Pro', monospace;
+font-size: 25px;
+margin-top: 10%;
+background-color: black;
+text-align: center;
+}
+.footer{
+    color: red;
+}
+.footer-mis{
+    color: rgb(224, 221, 217);
+}
+.copy{
+    color: cornflowerblue;
+    font-size: 10px;
+}
